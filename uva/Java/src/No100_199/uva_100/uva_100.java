@@ -1,10 +1,11 @@
-package UVA_100;
+package No100_199.uva_100;
+
 import java.util.Scanner;
 
 import static java.lang.Math.max;
 import static java.lang.Math.min;
 
-public class UVA_100 {
+public class uva_100 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
